@@ -10,7 +10,6 @@
 <meta name="format-detection" content="telephone=no">
 <link id="faviconLink" rel="shortcut icon" href="favicon.ico">
 <link rel="stylesheet" href="static.css">
-<title>Mein TiddlyWiki — my personal notebook</title>
 </head>
 <body class="tc-body">
 <div class="tc-sidebar-scrollable" style="overflow: auto;">
